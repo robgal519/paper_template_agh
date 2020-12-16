@@ -1,0 +1,14 @@
+**/*.aux
+**/*.bbl
+**/*.blg
+**/*.log
+**/*.toc
+**/*.synctex.gz
+__latexindent_temp.tex
+main.pdf
+img/*eps-converted-to.pdf
+*.fdb_latexmk
+*.fls
+*.out
+_minted-*
+*.dvi
